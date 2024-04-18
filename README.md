@@ -74,6 +74,11 @@
 
 </section>
 
+<section>
+  <h3>Bingoo!!!</h3>
+  <img src="images/final output.png" alt="Grafana Monitoring Dashboard">
+</section>
+
 
 
   <h2>Additional Notes</h2>
