@@ -53,6 +53,16 @@
   </section>
 
   <section>
+    <h3>Docker images build during the process </h3>
+    <img src="images/docker-images.png" alt="Kubectl - get all ">
+  </section>
+  
+  <section>
+    <h3>Kubectl Outputs</h3>
+    <img src="images/K8s-deploy.png" alt="Kubectl - get all ">
+  </section>
+  
+  <section>
     <h3>Prometheus Monitoring</h3>
     <img src="images/Prometheus.png" alt="Prometheus Monitoring Dashboard">
   </section>
@@ -64,10 +74,7 @@
 
 </section>
 
-  <section>
-    <h3>Kubectl Outputs</h3>
-    <img src="images/K8s-deploy.png" alt="Kubectl - get all ">
-  </section>
+
 
   <h2>Additional Notes</h2>
   <p>
