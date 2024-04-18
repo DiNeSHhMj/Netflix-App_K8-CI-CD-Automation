@@ -40,6 +40,32 @@
     <li>Build and deploy the application using the Jenkins pipeline.</li>
   </ol>
 
+  <h2>Deployment Outputs</h2>
+  <p>This section showcases screenshots from various stages of the deployment process.</p>
+
+  <section>
+    <h3>Jenkins Pipeline</h3>
+    <img src="images/Jenkins-pipeline.png" alt="Jenkins Pipeline - Stage 1">
+    <img src="path/to/your/jenkins_pipeline_2.png" alt="Jenkins Pipeline - Stage 2">
+  </section>
+
+  <section>
+    <h3>SonarQube Analysis</h3>
+    <img src="path/to/your/sonarqube.png" alt="SonarQube Code Quality Analysis">
+  </section>
+
+  <section>
+    <h3>Prometheus Monitoring</h3>
+    <img src="path/to/your/prometheus.png" alt="Prometheus Monitoring Dashboard">
+  </section>
+
+  <section>
+    <h3>Kubectl Outputs</h3>
+    <img src="path/to/your/kubectl_get_all_pods.png" alt="Kubectl - get all pods">
+    <img src="path/to/your/kubectl_get_all_deployments.png" alt="Kubectl - get all deployments">
+    <img src="path/to/your/kubectl_get_all_svc.png" alt="Kubectl - get all services">
+  </section>
+
   <h2>Additional Notes</h2>
   <p>
     * This project demonstrates a basic deployment of a Netflix clone application on Kubernetes.
