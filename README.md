@@ -46,24 +46,28 @@
   <section>
     <h3>Jenkins Pipeline</h3>
     <img src="images/Jenkins-pipeline.png" alt="Jenkins Pipeline - Stage 1">
-    <img src="path/to/your/jenkins_pipeline_2.png" alt="Jenkins Pipeline - Stage 2">
   </section>
 
   <section>
     <h3>SonarQube Analysis</h3>
-    <img src="path/to/your/sonarqube.png" alt="SonarQube Code Quality Analysis">
+    <img src="images/Sonarqube.png" alt="SonarQube Code Quality Analysis">
   </section>
 
   <section>
     <h3>Prometheus Monitoring</h3>
-    <img src="path/to/your/prometheus.png" alt="Prometheus Monitoring Dashboard">
+    <img src="images/Prometheus.png" alt="Prometheus Monitoring Dashboard">
   </section>
+
+<section>
+  <h3>Grafana Monitoring</h3>
+  <img src="images/node_exporter_Grafana.png" alt="Grafana Monitoring Dashboard">
+  <img src="images/Jenkins_Grafana.png" alt="Grafana Monitoring Dashboard">
+
+</section>
 
   <section>
     <h3>Kubectl Outputs</h3>
-    <img src="path/to/your/kubectl_get_all_pods.png" alt="Kubectl - get all pods">
-    <img src="path/to/your/kubectl_get_all_deployments.png" alt="Kubectl - get all deployments">
-    <img src="path/to/your/kubectl_get_all_svc.png" alt="Kubectl - get all services">
+    <img src="images/K8s-deploy.png" alt="Kubectl - get all ">
   </section>
 
   <h2>Additional Notes</h2>
