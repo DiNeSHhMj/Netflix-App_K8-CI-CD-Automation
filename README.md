@@ -8,9 +8,7 @@
   <h1>Netflix Clone on Kubernetes</h1>
   <p>This project deploys a Netflix clone application on Kubernetes, utilizing DevOps practices and security best practices.</p>
 
-
   <section>
-  <h3>Bingoo!!!</h3>
   <img src="images/Netflix-dashboard.png" alt="Netflix-dashboard">
   </section>
   
