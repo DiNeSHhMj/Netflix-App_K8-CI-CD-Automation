@@ -9,7 +9,7 @@
   <p>This project deploys a Netflix clone application on Kubernetes, utilizing DevOps practices and security best practices.</p>
 
   <section>
-  <img src="images/Netflix-dashboard.png" alt="Netflix-dashboard">
+  <img src="images/Netflix-dashboard.drawio.svg" alt="Netflix-dashboard">
   </section>
   
   <h2>Technologies Used</h2>
